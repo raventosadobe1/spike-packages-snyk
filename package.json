@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/raventosadobe1/spike-packages-snyk#readme",
   "dependencies": {
-    "mocha": "^3.5.3"
+    "mocha": "^4.0.0"
   }
 }
